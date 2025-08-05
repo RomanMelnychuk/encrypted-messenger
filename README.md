@@ -122,7 +122,7 @@ Accessible from any browser-enabled device.
 ### 🖥️ Backend (ASP.NET Core)
 
 ```bash
-cd backend
+cd Messenger.Backend
 dotnet restore
 dotnet run
 ```
@@ -132,9 +132,15 @@ dotnet run
 ### 💻 Frontend (React)
 
 ```bash
-cd frontend
+cd Messenger.Frontend
 npm install
 npm start
 ```
 
 ---
+
+## 👨‍💻 Author
+
+**Roman Melnychuk**  
+📧 Email: roma.melnychuk2013@gmail.com
+[My Telegram](https://t.me/roman_melnychuk17)
