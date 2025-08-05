@@ -1,5 +1,5 @@
 # encrypted-messenger
-A secure web-based messenger using hybrid encryption (AES + RSA) for end-to-end encrypted communication between users.
+A secure web-based messenger using hybrid encryption (AES + RSA,Camellia or Blowfish) for end-to-end encrypted communication between users.
 ## 📌 Features
 
 - User authentication via **Google OAuth** or **custom login & password**
