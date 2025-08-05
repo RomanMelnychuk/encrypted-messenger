@@ -4,7 +4,7 @@ A secure web-based messenger using hybrid encryption (AES + RSA,Camellia or Blow
 
 - User authentication via **Google OAuth** or **custom login & password**
 - User profile with photo upload and editable fields
-- Encrypted chats using AES + RSA, Camellia або Blowfish
+- Encrypted chats using AES + RSA, Camellia or Blowfish
 - Create and delete chats, clear messages
 - Responsive UI (desktop and mobile)
 - Individual key pair storage per user in DB
